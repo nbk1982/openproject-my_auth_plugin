@@ -1,0 +1,1 @@
+# openproject-my_auth_plugin
